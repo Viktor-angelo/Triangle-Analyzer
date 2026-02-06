@@ -1,6 +1,6 @@
-# Triangle-Analyzer
+Triangle-Analyzer
 A simple Java Swing application that checks if three segments form a triangle and determines its type in an interactive way.
-# Triangle Analyzer 🔺
+Triangle Analyzer 
 
 Triangle Analyzer is a desktop application developed in Java using Swing that allows users to check whether three segments can form a triangle and identify its type.
 
