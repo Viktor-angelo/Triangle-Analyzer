@@ -1,38 +1,40 @@
-Triangle-Analyzer
-A simple Java Swing application that checks if three segments form a triangle and determines its type in an interactive way.
-Triangle Analyzer 
+Java Calculator – Swing
 
-Triangle Analyzer is a desktop application developed in Java using Swing that allows users to check whether three segments can form a triangle and identify its type.
+A simple Java Swing application that performs basic mathematical calculations using an interactive graphical interface.
 
-This project was created with a focus on learning programming logic, object-oriented programming, and building graphical user interfaces with Java Swing.
+Java Calculator
 
----
+Java Calculator is a desktop application developed in Java using Swing that allows users to enter a numeric value and calculate different mathematical results in a clear and interactive way. This project was created with a focus on learning programming logic, object-oriented programming, and building graphical user interfaces using Java Swing.
 
 Features
 
-- Selection of segment values A, B, and C using sliders
-- Automatic verification of whether the segments form a triangle
-- Identification of the triangle type:
-  - Equilateral
-  - Isosceles
-  - Scalene
-- Simple and interactive interface
-- Results displayed only after calculation
+-Input of a numeric value using a spinner
 
+-Calculation of the remainder when divided by 2
 
-Technologies Used
+-Calculation of the cube of the number
 
-- Java
-- Java Swing (JFrame)
-- NetBeans IDE
+-Calculation of the cube root
 
+-Calculation of the square root
+
+-Calculation of the absolute value
+
+-Results displayed after clicking the calculate button
+
+-Simple and intuitive interface
+
+-Technologies Used
+
+Java
+
+Java Swing (JFrame)
+
+NetBeans IDE
 
 How to Run the Project
+Clone the repository:
+git clone https://github.com/Viktor-angelo/java-calculator-swing.git
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Viktor-angelo/Triangle-Analyzer.git
-2. Open the project in a Java-compatible IDE
-   (NetBeans, IntelliJ IDEA, or Eclipse)
-
-3. Run the main class (TriangleScreen)
+Open the project in a Java-compatible IDE (NetBeans, IntelliJ IDEA, or Eclipse)
+Run the main class (TelaCalc)
